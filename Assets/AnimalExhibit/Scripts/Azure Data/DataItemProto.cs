@@ -15,6 +15,12 @@ public class DataItemProtoDino {
 
     public float Size { get; set; }
     public string Name { get; set; }
-       
+
+    public string Description { get; set; }
+    public string Length { get; set; }
+    public string Weight { get; set; }
+    public string Speed { get; set; }
+    public string Lifespan { get; set; }
+
 
 }
