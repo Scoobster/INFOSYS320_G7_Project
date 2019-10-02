@@ -38,10 +38,40 @@
 		"rotationY":133, 
 		"rotationZ":0, 
 		"Name":"Dilophosaurus",
-		"Description":"Dilophosaurus is a genus of theropod dinosaur that lived in what is now North America during the Early Jurassic, about 193 million years ago. Three skeletons were discovered in northern Arizona in 1940, and the two best preserved were collected in 1942.",
+		"Description":"Dilophosaurus is a genus of theropod dinosaur that lived in what is now North America during the Early Jurassic, about 193 million years ago. Three skeletons were discovered in northern Arizona in 1940, and the two best preserved were collected in 1942. Does not spit venom as suggested in the Jurassic Park movie.",
 		"Length":"7 m",
 		"Weight":"400 kg",
 		"Speed":"50 km/h",
+		"Lifespan": "Unknown"
+	},
+	{
+		"id":null,
+		"X":-2.17,
+		"Y":0.9,
+		"Z":30.68, 
+		"rotationX":0, 
+		"rotationY":133, 
+		"rotationZ":0, 
+		"Name":"Parasaurolophus",
+		"Description":"Parasaurolophus is a genus of herbivorous ornithopod dinosaur that lived in what is now North America and possibly Asia during the Late Cretaceous Period, about 76.5–73 million years ago. It was a herbivore that walked both as a biped and as a quadruped.",
+		"Length":"10 - 11 m",
+		"Weight":"2,700 - 3,600 kg",
+		"Speed":"40 km/h",
+		"Lifespan": "Unknown"
+	},
+	{
+		"id":null,
+		"X":-2.17,
+		"Y":0.9,
+		"Z":30.68, 
+		"rotationX":0, 
+		"rotationY":133, 
+		"rotationZ":0, 
+		"Name":"Triceratops",
+		"Description":"Triceratops is a genus of herbivorous ceratopsid dinosaur that first appeared during the late Maastrichtian stage of the late Cretaceous period, about 68 million years ago in what is now North America. It is one of the last known non-avian dinosaur genera, and became extinct in the Cretaceous–Paleogene extinction event 66 million years ago. The name Triceratops is derived from the Ancient Greek and translates to three-horned face.",
+		"Length":"7.9 - 9 m",
+		"Weight":"5,900 - 12,000 kg",
+		"Speed":"32 km/h",
 		"Lifespan": "Unknown"
 	}
 ]
